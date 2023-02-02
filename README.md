@@ -10,6 +10,12 @@ https://www.apachefriends.org/jp/index.html
 
 XAMPPのセットアップが終わったら,XAMPP Control Panelを開きApacheとMySQLのstartボタンを押してください
 
-コントロールパネルのタスクを切らずにsetup.exeを開いてください
+コントロールパネルのタスクを切らないでください
 
-あとは、kakeibo.exeを起動していただければ動作いたします
+次に下記のURLでPythonの3.10以上のVersionをダウンロ－ドしてください
+
+https://www.python.org/downloads/
+
+Pythonのダウンロードが終わったらsetup.pyを開いてください
+
+あとは、kakeibo.pyを起動していただければ動作いたします
